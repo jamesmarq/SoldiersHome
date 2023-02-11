@@ -1,0 +1,107 @@
+﻿OVERALL SITE NAVIGATION:
+* Remove “resources” from under about
+* Move “rehab project” to a drop down from About
+* Delete what is currently “restoration”
+* Under LEARN add drop downs for each of the sub pages: History of the National Homes for Volunteer Soldiers; the role of women in founding the Soldiers Home, Explore Milwaukee Soldiers Home Buildings, The Soldiers Home today
+* Move media resources to under multi-media
+
+
+
+
+
+
+
+
+HOME PAGE[a]:
+
+
+
+
+Milwaukee Soldiers Home: A National Treasure In Need
+The Milwaukee Soldiers Home, on the grounds of the Clement J. Zablocki VA Medical Center overlooking American Family Field, was built in 1867 as a place of healing for veterans returning from the Civil War. Since then, thousands of Wisconsin veterans have called it their safe haven.
+One of only 43 National Historic Landmarks in Wisconsin, the Soldiers Home contains some of the oldest and most historic buildings in the VA system. Though many of its buildings remain in use, some of the District’s most iconic buildings remain vacant and deteriorating. Learn more. 
+
+
+Preservation in Action: Six Buildings Are Saved[b]
+Thanks in large part to an advocacy and awareness effort led by the Milwaukee Preservation Alliance (MPA), six of the Soldiers Home’s buildings - including the formerly endangered and most significant one, Old Main - have been renovated into 101 supportive housing units for veterans and their families who are homeless or at risk of becoming homeless. Learn more. 
+
+
+The Need Remains[c]
+Though veterans once again call Old Main home, other key historic buildings remain threatened. MPA has set its sights on three remaining vacant Soldiers Home buildings: Ward Memorial Theater, the Soldiers Home Chapel and the Governor’s Mansion, which are currently unused and deteriorating. Learn more. 
+
+
+Navigation Buttons: Can we add a constant contact subscription button at the top? Here’s the link to use: https://visitor.r20.constantcontact.com/manage/optin?v=0011iDJesk0jJk0sWiw07xoH5C6dpGOrjZdPZwHMh8NmK7ucL0x2QZxFHEsL9um03ouzzhXkoZJA-wmIFWlivgPh6NhBYvEdOkUz0rfM_GwvVXJGHTxWBEZQA3bVTXHY3ax 
+________________
+
+
+ABOUT PAGE[d]
+
+
+INTRO LANGUAGE - NO ANIMATION: When the Milwaukee Preservation Alliance learned of a partial collapse in Old Main’s roof, it prompted swift and urgent action. MPA set out to mobilize the community to Save the Soldiers Home, starting with a significant outreach effort designed to educate the community about the historic asset in the heart of Milwaukee and engage them to play a role in returning the district’s vacant buildings to their original purpose: the service of veterans. 
+
+
+SCROLL TO REVEAL LEFT ALIGNED PHOTO / GRAPHIC AND TEXT PARAGRAPH:
+  
+
+	In 2011, the Milwaukee Preservation Alliance successfully nominated the Milwaukee Soldiers Home District to the National Trust for Historic Preservation’s 11 Most Endangered Historic Places list, bringing national attention to the District and jumpstarting the preservation effort. The momentum from the designation spurred MPA’s work in partnership with the National Trust for Historic Preservation, Wisconsin Historical Society, National Park Service and others to create a framework and vision for rehabilitation of the Soldiers Home’s vacant buildings.
+	  
+
+	With a focus on engaging with local stakeholders, MPA and the National Trust for Historic Preservation (NTHP) partnered to create a Community Advisory Council (CAC) consisting of veterans, preservationists, elected officials, and business leaders. The group meets regularly and created a consensus report outlining a vision for the Soldiers Home, which became a vital tool in MPA’s advocacy efforts.
+
+
+	  
+
+	Backed by the support and involvement of the CAC, MPA led outreach to educate the community about the Soldiers Home and raise awareness of the veteran needs that could be met through the rehabilitation of its buildings. Through MPA’s years of efforts, including the creation of a free downloadable walking tour app and an online learning resource, and building an extremely popular and active online following, MPA raised strong recognition of the Soldiers Home’s significance and built support for its rehabilitation.
+
+
+	  
+
+	MPA’s “Save the Soldiers Home” campaign reached a critical milestone when, in 2016, the Department of Veterans Affairs released a Request for Proposals (RFP) seeking responses from developers interested in rehabilitating a number of the Milwaukee Soldiers Home District’s unused historic buildings. When a team led by The Alexander Company and the Housing Authority of the City of Milwaukee was chosen by the VA, MPA stepped in to serve as the project’s fiscal agent, helping to fundraise and manage the $3 million capital campaign necessary to fill the project’s financing gap.
+	  
+
+	Thanks to The Alexander Company, the Department of Veterans Affairs, the Center for Veterans Issues, and the Housing Authority of the City of Milwaukee, MPA’s vision became a reality with the unprecedented successful rehabilitation and reuse of Old Main and five other historic buildings as homeless veteran housing.
+
+
+	  
+
+	Encouraged by the success of the project, MPA has set its sights on three additional endangered Soldiers Home buildings: Ward Memorial Theater, the Soldiers Home Chapel and the Governor’s Mansion.
+	
+
+
+
+________________
+
+
+REHAB PROJECT PAGE
+Delete donate button; everything else can stay the same
+
+
+NEWS PAGE
+This formats funky, anything we can do? 
+
+
+MEDIA RESOURCES SUB PAGE
+Can we make sure the most recent version of the brochure is what’s linked here
+
+
+CONNECT PAGE:
+Keep the same info - but maybe a face lift?
+________________
+
+
+[a]Potentially leverage Old Main b-roll in a video header as long as it doesn't slow things down too much
+
+
+https://drive.google.com/file/d/1OQsDbortyKeOB1wyCcN9WOfXMb_OJcoi/view?usp=sharing
+[b]Updated Old Main photos can be taken from here. https://alexandercompany.com/soldiers-home-media-kit/#image-gallery
+[c]Chapel Photos: https://drive.google.com/drive/folders/1eJeJGwRPZJ1_5JhqnG04EsPU6Q2EHQtF?usp=sharing
+
+
+Also have chapel video: https://drive.google.com/file/d/11md5JaHW60_EM2SmQQ6U4pJ74yfumVPL/view
+
+
+Ward Theater Video (maybe we pull stills or b-roll from here) https://drive.google.com/file/d/1UfH6Hn4RNkJzN23MAmV5PWDP5JNQBj_H/view
+
+
+Governors Mansion Photo: https://drive.google.com/file/d/1ApOiP2MK9FHfWCd959bsr47cnIl7DyJw/view?usp=sharing
+[d]Let's talk about how we can bring this page to life visually - it's a ton of text, can we do a scroll and reveal with a picture / capture similar to what you did on the Mueller holiday page?
